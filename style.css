@@ -15,3 +15,31 @@ div {
     padding-top: 10rem;
     text-align: center;
 }
+
+form {
+    margin: 0 auto;
+    width: 60%;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+#IDDescript, .red {
+    color: red;
+}
+
+#passwordDescript {
+    color: blue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: "궁서체";
+}
